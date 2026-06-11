@@ -1,5 +1,5 @@
 # Defect-Alzer-Next-Gen-Real-Time-Defect-Monitoring-System
-Defect Alzer is an AI-powered real-time defect detection system for manufacturing industries using **YOLOv8**, **OpenCV**, and a **Streamlit** web dashboard. It detects product defects, displays bounding boxes with confidence scores, and generates CSV-based reports.
+Defect-Alzer: A Next-Gen Real-Time Defect Monitoring System** is an AI-powered defect detection project built to identify manufacturing defects in real time using computer vision and deep learning. The system is designed for automated defect monitoring, quality inspection, and report generation using YOLOv8, Python, OpenCV, and Streamlit.
 
 ## Problem Statement
 
@@ -17,25 +17,26 @@ The objective of this project is to build a cost-effective and scalable defect d
 - Works efficiently on low-end hardware.
 - Provides a simple web interface for image or video upload and defect analysis.
 - Generates CSV-based defect reports for further analysis.
-  
-## Technologies Used
+    
+## Features
+- Real-time defect detection using YOLOv8.
+- Automated defect monitoring for industrial quality control.
+- Streamlit-based user interface for easy interaction.
+- Bounding box visualization with confidence scores.
+- CSV report generation for detected defects.
+- Downloadable processed images and results.
+- Optimized for practical use on low-end hardware.
+## Keywords
 
+defect detection, real-time monitoring, automated defect monitoring, computer vision, object detection, quality control, manufacturing inspection, YOLOv8, OpenCV, Python.
+
+## Tech Stack
 - Python
-- YOLOv8 (Ultralytics)
+- YOLOv8
 - OpenCV
-- PyTorch
 - Streamlit
 - Pandas
-- NumPy
-  
-## Features
-
-- Real-time defect detection using YOLOv8.
-- Streamlit-based user interface.
-- Detection of multiple product categories.
-- Bounding box visualization with confidence scores.
-- CSV-based report generation.
-- Designed for affordable and practical industrial use.
+- CSV
   
 ## Project Structure
 
